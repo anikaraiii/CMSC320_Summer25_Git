@@ -10,3 +10,8 @@ Answer: Medicine. Since there are so many medical datsets, datascience
 could be used to sort through and then make predictions based on previous 
 data.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is a safe option that preserves the entire history of your 
+repository, while rebasing creates a linear history by moving your feature 
+branch onto the tip of main.
